@@ -19,8 +19,8 @@ local games = {
     [6938236159] = "ADS.lua",
     [6911385724] = "ADS.lua",
     [6990133340] = "ADS.lua",
-    [7525610732] = "Kaizen.lua",
-    [11040063484] = "SwordSim.lua",
+    [11542692507] = "AnimeSoul.txt",
+    [11582083063] = "Piece.txt",
 }
 
 for i, v in pairs(games) do
