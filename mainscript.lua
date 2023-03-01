@@ -19,8 +19,6 @@ local games = {
     [6938236159] = "ADS.lua",
     [6911385724] = "ADS.lua",
     [6990133340] = "ADS.lua",
-    [11542692507] = "AnimeSoul.txt",
-    [11582083063] = "Piece.txt",
     [8304191830] = "AAA.lua",
 }
 
